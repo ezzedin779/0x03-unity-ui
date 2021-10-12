@@ -4384,6 +4384,8 @@ MonoBehaviour:
   health: 5
   scoreText: {fileID: 2118942954}
   healthText: {fileID: 762968504}
+  winloseText: {fileID: 985068642}
+  winloseBG: {fileID: 806623774}
 --- !u!1 &1033756763
 GameObject:
   m_ObjectHideFlags: 0
